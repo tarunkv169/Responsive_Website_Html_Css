@@ -58,7 +58,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(245.59deg, #954d52 0%, #683030, 40.53%, #4e1a1a 60.52%);
+    background: linear-gradient(245.59deg, #584d95 0%, #3d3068, 40.53%, #2c1a4e 60.52%);
 
     position: relative;
     display: grid;
@@ -75,7 +75,7 @@ header{
 
 .shadow
 {
-    filter: drop-shadow(-40px 5px 50px rgb(157, 45, 45));
+    filter: drop-shadow(-20px 5px 20px rgb(63, 58, 58));
 }
 
 section
